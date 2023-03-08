@@ -9,11 +9,11 @@ In this README file, we will provide a brief overview of how to use the Random F
 ## Installation
 Random Forest Classification is a popular algorithm and is included in most machine learning libraries. Some of the popular libraries that support Random Forest Classification include:
 
-scikit-learn
-R
-MATLAB
-Weka
-H2O
+- scikit-learn
+- R
+- MATLAB
+- Weka
+- H2O
 To use the Random Forest Classification algorithm, you can simply install one of these libraries and import the necessary functions.
 
 ## How to use Random Forest Classification
